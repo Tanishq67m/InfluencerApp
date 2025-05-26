@@ -18,7 +18,17 @@ Before you begin, ensure you have the following installed:
 - Node.js (v18 or higher)
 - npm (comes with Node.js)
 
-## Installation
+## Quick Start
+
+For quick setup, run:
+```bash
+npm install
+npm run dev
+```
+
+The application will be available at `http://localhost:5173`
+
+## Detailed Installation
 
 1. Clone the repository:
 ```bash
@@ -95,3 +105,10 @@ InfluencerApp/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+
+
+working - 
+npm install
+npm run dev
+>>>>>>> 20558300ef66f894332d0142decc7e60fbe3365e
